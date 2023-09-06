@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0b5da0e2b59ae1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Геометрия/Векторная Алгебра.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Геометрия/Векторная Алгебра.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Геометрия/Векторная Алгебра.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,15 +160,16 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "ec889b559c38c733",
+  "active": "1423fb474c55dba5",
   "lastOpenFiles": [
+    "Геометрия/Векторная Алгебра.md",
+    "README.md",
     "Архитектура Вычислительных Систем/Архитектура ЭВМ.md",
     "Языки программирования/Языки программирования.md",
     "Информационные системы/Информация. Данные. Знания.md",
     "Языки программирования",
     "Информационные системы",
     "Ввод.md",
-    "Геометрия/Векторная Алгебра.md",
     "Архитектура Вычислительных Систем",
     "Геометрия"
   ]
