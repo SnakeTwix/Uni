@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Экономическая Теория/Введение в экономику.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Экономическая Теория/Введение в экономику.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Экономическая Теория/Введение в экономику.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Экономическая Теория/Введение в экономику.md"
               }
             }
           }
@@ -160,9 +160,15 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "1423fb474c55dba5",
+  "active": "e0b5da0e2b59ae1f",
   "lastOpenFiles": [
+    "Алгебра/Элементарные преобразования матриц. Приведение матрицы к ступенчатому виду.md",
+    "Экономическая Теория/Введение в экономику.md",
+    "Экономическая Теория",
+    "Пометки/Греческий Алфавит.png",
+    "Пометки",
     "Геометрия/Векторная Алгебра.md",
+    "Алгебра",
     "README.md",
     "Архитектура Вычислительных Систем/Архитектура ЭВМ.md",
     "Языки программирования/Языки программирования.md",
