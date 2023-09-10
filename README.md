@@ -1,6 +1,7 @@
 # Чтобы пользоваться этим требуется
 1. git https://git-scm.com/
 2. Obsidian https://obsidian.md/
+3. Установить и включить плагин Excalidraw: https://github.com/zsviczian/obsidian-excalidraw-plugin (В интернете можно посмотреть, как устанавливать плагины)
 
 Верю, что разберетесь, как скачать.
 ---
