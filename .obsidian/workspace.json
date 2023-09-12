@@ -109,38 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура Вычислительных Систем/Типы компьютеров.md",
+                "file": "Информационные системы/Информационные процессы, Технологии, Системы. Экономическая информационная система.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "958ae6d8ae3e8874",
+            "id": "03b21b2f8055910c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура Вычислительных Систем/Типы компьютеров.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "544d4ec172d282de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Языки программирования/Типы Данных.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -206,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Языки программирования/Типы Данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Языки программирования/Типы Данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Языки программирования/Типы Данных.md"
               }
             }
           }
@@ -269,24 +257,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "544d4ec172d282de",
+  "active": "03b21b2f8055910c",
   "lastOpenFiles": [
+    "Языки программирования/Алгоритмы и языки программирования.md",
+    "Языки программирования/Типы Данных.md",
+    "Геометрия/Векторная Алгебра.md",
+    "Информационные системы/Информационные процессы, Технологии, Системы. Экономическая информационная система.md",
+    "Информационные системы/Информация. Данные. Знания.md",
+    "Excalidraw/Информационные процессы, Технологии, Системы. Экономическая информационная система 2023-09-11 09.47.54.excalidraw.md",
     "Архитектура Вычислительных Систем/Типы компьютеров.md",
+    "Архитектура Вычислительных Систем/Архитектура ЭВМ.md",
+    "Архитектура Вычислительных Систем/Диаграммы.md",
+    "README.md",
     "Excalidraw/Типы компьютеров 2023-09-08 13.52.03.excalidraw.md",
     "Excalidraw/Типы компьютеров 2023-09-08 13.47.23.excalidraw.md",
     "Excalidraw/Типы компьютеров 2023-09-08 13.34.20.excalidraw.md",
     "Excalidraw/Типы компьютеров 2023-09-08 13.40.28.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 13.26.43.excalidraw.md",
-    "Архитектура Вычислительных Систем/Диаграммы.md",
-    "Архитектура Вычислительных Систем/Архитектура ЭВМ.md",
     "images",
     "images/Pasted image 20230908132540.png",
     "Excalidraw/Drawing 2023-09-08 13.15.50.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 09.57.57.excalidraw.md",
     "Excalidraw/Drawing 2023-09-07 20.56.57.excalidraw.md",
     "Математический Анализ/Множества.md",
-    "Информационные системы/Информация. Данные. Знания.md",
-    "Языки программирования/Языки программирования.md",
     "Экономическая Теория/Введение в экономику.md",
     "Excalidraw/Drawing 2023-09-08 09.45.56.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 09.28.28.excalidraw.md",
@@ -297,9 +290,7 @@
     "Экономическая Теория",
     "Пометки/Греческий Алфавит.png",
     "Пометки",
-    "Геометрия/Векторная Алгебра.md",
     "Алгебра",
-    "README.md",
     "Языки программирования",
     "Информационные системы",
     "Ввод.md",
