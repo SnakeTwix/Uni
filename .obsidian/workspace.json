@@ -121,14 +121,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Языки программирования/Типы Данных.md",
+                "file": "Информационные системы/Рынок дистрибуции трафика.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b66e666e5f07a903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информационные системы/Рынок дистрибуции трафика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55b96353919f7829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгебра/Элементарные преобразования матриц. Приведение матрицы к ступенчатому виду.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28705e03050b4f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математический Анализ/Множества.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18a0f568eb342606",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/МатАнализЗадания.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -194,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки программирования/Типы Данных.md",
+                "file": "Excalidraw/МатАнализЗадания.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Языки программирования/Типы Данных.md",
+                "file": "Excalidraw/МатАнализЗадания.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +280,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки программирования/Типы Данных.md"
+                "file": "Excalidraw/МатАнализЗадания.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "957cc0eadbe42d5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -257,13 +313,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03b21b2f8055910c",
+  "active": "18a0f568eb342606",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-13 11.05.24.excalidraw.md",
+    "Excalidraw/МатАнализЗадания.excalidraw.md",
+    "Математический Анализ/Множества.md",
+    "images/Pasted image 20230913110143.png",
+    "Excalidraw/Drawing 2023-09-13 10.53.20.excalidraw.md",
+    "Экономическая Теория/Введение в экономику.md",
+    "Алгебра/Элементарные преобразования матриц. Приведение матрицы к ступенчатому виду.md",
+    "images/Pasted image 20230908132540.png",
+    "Языки программирования/Практика.md",
     "Языки программирования/Алгоритмы и языки программирования.md",
+    "Информационные системы/Информационные процессы, Технологии, Системы. Экономическая информационная система.md",
+    "Информационные системы/Рынок дистрибуции трафика.md",
+    "Excalidraw/Рынок дистрибуции трафика 2023-09-12 13.00.22.excalidraw.md",
+    "Excalidraw/Рынок дистрибуции трафика 2023-09-12 12.40.01.excalidraw.md",
+    "Информационные системы/Информация. Данные. Знания.md",
     "Языки программирования/Типы Данных.md",
     "Геометрия/Векторная Алгебра.md",
-    "Информационные системы/Информационные процессы, Технологии, Системы. Экономическая информационная система.md",
-    "Информационные системы/Информация. Данные. Знания.md",
     "Excalidraw/Информационные процессы, Технологии, Системы. Экономическая информационная система 2023-09-11 09.47.54.excalidraw.md",
     "Архитектура Вычислительных Систем/Типы компьютеров.md",
     "Архитектура Вычислительных Систем/Архитектура ЭВМ.md",
@@ -275,17 +343,8 @@
     "Excalidraw/Типы компьютеров 2023-09-08 13.40.28.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 13.26.43.excalidraw.md",
     "images",
-    "images/Pasted image 20230908132540.png",
     "Excalidraw/Drawing 2023-09-08 13.15.50.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-08 09.57.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-07 20.56.57.excalidraw.md",
-    "Математический Анализ/Множества.md",
-    "Экономическая Теория/Введение в экономику.md",
-    "Excalidraw/Drawing 2023-09-08 09.45.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-08 09.28.28.excalidraw.md",
-    "Алгебра/Элементарные преобразования матриц. Приведение матрицы к ступенчатому виду.md",
     "Математический Анализ",
-    "Excalidraw/Drawing 2023-09-07 20.53.10.excalidraw.md",
     "Excalidraw",
     "Экономическая Теория",
     "Пометки/Греческий Алфавит.png",
@@ -293,7 +352,6 @@
     "Алгебра",
     "Языки программирования",
     "Информационные системы",
-    "Ввод.md",
     "Архитектура Вычислительных Систем",
     "Геометрия"
   ]
